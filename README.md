@@ -1,5 +1,5 @@
 ### Davis Food Glycopedia 2
-This repository contains the analytic code for analyses performed with NHANES dietary recall data using DFG2 features in the submitted manuscript: A Dietary Glycan Encyclopedia of Food for Guiding Precision Nutrition.
+This repository contains the analytic code for analyses performed with NHANES dietary recall data using DFG2 features in the submitted manuscript: Development of a comprehensive food glycomic database and its application: Associations between dietary carbohydrates and insulin resistance.
 
 Additional data requests can be made following publication.
 
