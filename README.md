@@ -1,7 +1,5 @@
 ### Davis Food Glycopedia 2
-This repository contains the analytic code for analyses performed with NHANES dietary recall data using DFG2 features in the submitted manuscript: Development of a comprehensive food glycomic database and its application: Associations between dietary carbohydrates and insulin resistance.
-
-Additional data requests can be made following publication.
+This repository contains the analytic code for analyses performed with NHANES dietary recall data using DFG2 features in the submitted manuscript: *Development of a comprehensive food glycomic database and its application: Associations between dietary carbohydrates and insulin resistance* (https://doi.org/10.1016/j.foodchem.2025.142977).
 
 Package versions:
 - Python 3.7.7
